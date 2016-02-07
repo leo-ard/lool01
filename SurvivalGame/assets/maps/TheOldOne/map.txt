@@ -1,0 +1,12 @@
+name:Map 1
+x:500
+y:500
+width:1000
+height:500
+
+Player spawn x:500
+Player spawn y:250
+Enemy spawn:0,0,2000,500
+Enemy spawn:0,0,500,1500
+Enemy spawn:1500,0,500,1500
+Enemy spawn:0,1000,2000,500

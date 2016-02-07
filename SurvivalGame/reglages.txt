@@ -1,0 +1,3 @@
+wasdMode:true:boolean
+width:1600:int
+height:885:int
